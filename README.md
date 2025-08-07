@@ -214,4 +214,4 @@ cita-nusa-resto/
 
 - `POST /api/contact` - Kirim pesan kontak
 
-Dibuat dengan ❤️ oleh ahmadahsin.dev, Claude, dan ChatGPT.
+Dibuat dengan ❤️ oleh atika
